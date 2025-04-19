@@ -63,9 +63,3 @@ This project implements a full end-to-end link-level simulator for 5G New Radio 
 ## 📄 Project Report
 
 Please refer to the `5G_NR_LinkLevel_Project_Report.pdf` for a detailed explanation of methodology, simulation setup, results, and future enhancements.
-
----
-
-```
-
-Let me know if you'd like this uploaded as a file (`README.md`) or edited further.
